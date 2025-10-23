@@ -11,6 +11,11 @@ Hi! I'm Daniel, a passionate full-stack developer with an interest in solving re
 
 ### 💻 Projects
 
+**PlutusPulse** | Python, Flask, React, TypeScript, Bootstrap, Chart.js 
+⭐ Developed a full-stack financial analytics web application integrating real-time economic data from the FRED API using Flask and React  
+- Implemented interactive data visualizations with Chart.js, enabling users to analyze macroeconomic indicators and correlations dynamically  
+- Designed and deployed RESTful API routes for fetching, transforming, and visualizing financial datasets with scalable backend architecture
+
 **ChessIQ** | React, Next.js, TypeScript, Java, Spring Boot  
 🧠 Full-stack chess learning platform built with a team of students  
 - Designed and implemented RESTful API backend using Spring Boot with MVC and client/server architecture  
@@ -21,3 +26,7 @@ Hi! I'm Daniel, a passionate full-stack developer with an interest in solving re
 - Built backend services with Spring Boot; tested endpoints with Postman  
 - Used Java data structures like HashMap to optimize lookup times  
 - Coordinated with frontend teammates to wire up reusable UI components  
+
+
+Come check out Plutus Pulse! 
+https://plutus-pulse.vercel.app/
